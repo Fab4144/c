@@ -1,6 +1,7 @@
 # Instructions
 
 Test for development internal
+
 The classical introductory exercise. Just say "Hello, World!".
 
 ["Hello, World!"](http://en.wikipedia.org/wiki/%22Hello,_world!%22_program) is
@@ -14,3 +15,4 @@ The objectives are simple:
 - Submit your solution and check it at the website.
 
 If everything goes well, you will be ready to fetch your first real exercise.
+It will check also if all packages are done internally, excepts C module which is in github.
