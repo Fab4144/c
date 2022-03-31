@@ -21,7 +21,7 @@ static void test_say_hi(void)
    // This test is expected to fail after first downloading this exercise.
    // To make this test pass, fix the 'hello()' function definition in the
    // source file src/hello_world.c.
-   TEST_ASSERT_EQUAL_STRING("Hello, World!", hello());
+   TEST_ASSERT_EQUAL_STRING("Hello, my new World!", hello());
 }
 
 // Runs the test(s)
